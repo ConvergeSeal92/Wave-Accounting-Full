@@ -1,0 +1,23 @@
+{
+  "repo": "wave-accounting-full",
+  "product": "Wave Accounting Full",
+  "kind": "productivity",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "accounting",
+  "topics": [
+    "wave-accounting",
+    "freelancer-invoices",
+    "receipt-match-desk",
+    "wave-windows",
+    "pnl-report-2026",
+    "how-to-install-wave",
+    "wave-desktop-package",
+    "estimate-pay-suite",
+    "tax-export-tools",
+    "wave-freelancer-studio"
+  ],
+  "site": "toolix.me"
+}
